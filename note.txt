@@ -1,0 +1,16 @@
+-- Controllers --
+  symfony make:controller pins permet de creer un controller et le fichier twig qui est associé
+
+-- Migration --
+  creer une migration: "symfony console make:migration"
+  appliquer une migration: "symfony console doctrine:migrations:migrate"
+
+-- Creation de Formulaire --
+   symfony console make:form
+
+-- nvm --
+    nvm est un outil qui permet d'intaller plusieurs versions d'un package et de switcher entre les versions
+
+naming strategy is set in doctrine.yaml file
+
+-- webpack copyFiles

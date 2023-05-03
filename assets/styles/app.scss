@@ -1,0 +1,44 @@
+@import '~bootstrap';
+
+html, body {
+  font-family: 'Montserrat', sans-serif;
+
+  .edit{
+    img{
+      width: 300px;
+    }
+  }
+  article {
+    img{
+    width: 200px;
+    }
+    .image-placeholder{
+      width: 200px;
+      height: 200px;
+      margin: auto;
+      @extend .bg-secondary;
+    }
+  }
+}
+
+.alert {
+  padding: 10px;
+  color: white;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  text-align: center;
+
+  &.alert-success {
+    background-color: green !important;
+  }
+
+  &.alert-error {
+    background-color: red !important;
+  }
+
+  &.alert-info {
+    background-color: blue;
+  }
+
+}

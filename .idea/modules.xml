@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../React Native projects/.idea/React Native projects.iml" filepath="$PROJECT_DIR$/../../React Native projects/.idea/React Native projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Trankyl projects/.idea/Trankyl projects.iml" filepath="$PROJECT_DIR$/../../Trankyl projects/.idea/Trankyl projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Tomiye projects/afalika-software/.idea/afalika-software.iml" filepath="$PROJECT_DIR$/../../Tomiye projects/afalika-software/.idea/afalika-software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Trankyl projects/api_php/.idea/api_php.iml" filepath="$PROJECT_DIR$/../../Trankyl projects/api_php/.idea/api_php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../kaba/kaba-admin-v2/.idea/kaba-admin-v2.iml" filepath="$PROJECT_DIR$/../../kaba/kaba-admin-v2/.idea/kaba-admin-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../laravel_projects/.idea/laravel_projects.iml" filepath="$PROJECT_DIR$/../../laravel_projects/.idea/laravel_projects.iml" />
+      <module fileurl="file://$USER_HOME$/my-first-vue-cli-app/.idea/my-first-vue-cli-app.iml" filepath="$USER_HOME$/my-first-vue-cli-app/.idea/my-first-vue-cli-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pinterest.iml" filepath="$PROJECT_DIR$/.idea/pinterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Trankyl projects/trankyl_apis_php/.idea/trankyl_apis_php.iml" filepath="$PROJECT_DIR$/../../Trankyl projects/trankyl_apis_php/.idea/trankyl_apis_php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Trankyl projects/trankyl_client_app_reactnative_php_apis/.idea/trankyl_client_app_reactnative_php_apis.iml" filepath="$PROJECT_DIR$/../../Trankyl projects/trankyl_client_app_reactnative_php_apis/.idea/trankyl_client_app_reactnative_php_apis.iml" />
+    </modules>
+  </component>
+</project>
