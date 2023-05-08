@@ -1,0 +1,9 @@
+Maintenant, vous pouvez créer votre base de données en exécutant la commande suivante :
+
+--bin/console doctrine:database:create
+Cela créera la base de données définie dans votre fichier DATABASE_URL.
+
+Vous pouvez maintenant générer les tables de votre base de données en utilisant les entités de Doctrine. Pour cela, exécutez la commande suivante :
+
+-- bin/console doctrine:schema:update --force
+Cela créera toutes les tables nécessaires dans votre base de données en fonction des entités de Doctrine définies dans votre projet.
